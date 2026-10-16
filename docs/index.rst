@@ -52,7 +52,7 @@ and seamless multi‑GPU scaling, delivering performance gains over CPU-only
 baselines in intensive workloads.
 
 The AMD Finance source code is hosted on GitHub at
-`https://github.com/AMD-Ecosystem/rocm-finance <https://github.com/AMD-Ecosystem/rocm-finance>`__.
+`https://github.com/AMD-Ecosystem/finance <https://github.com/AMD-Ecosystem/finance>`__.
 
 AMD Finance documentation is organized into the following categories:
 
@@ -72,4 +72,4 @@ AMD Finance documentation is organized into the following categories:
 
    .. grid-item-card:: Tutorial
 
-      * `Examples <https://github.com/AMD-Ecosystem/rocm-finance/tree/release/25.11/examples>`__
+      * `Examples <https://github.com/AMD-Ecosystem/finance/tree/release/25.11/examples>`__
