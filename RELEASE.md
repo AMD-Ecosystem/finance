@@ -43,7 +43,7 @@ To learn about hardware and software environment requirements, see the
   - 4.6.0.99
   - {icon}`fa-brands fa-github fa-lg <https://github.com/AMD-Ecosystem/lightgbm>`
 
-* - [ThunderGBM](https://rocm.docs.amd.com/projects/thundergbm/en/docs-25.11/)
+* - [ThunderGBM](https://rocm.docs.amd.com/projects/thundergbm/en/docs-26.01/)
   - 0.3.16
   - {icon}`fa-brands fa-github fa-lg <https://github.com/AMD-Ecosystem/thundergbm>`
 

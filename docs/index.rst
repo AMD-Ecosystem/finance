@@ -68,7 +68,7 @@ AMD Finance documentation is organized into the following categories:
 
 
       * `LightGBM <https://rocm.docs.amd.com/projects/lightgbm/en/docs-25.11/>`__
-      * `ThunderGBM <https://rocm.docs.amd.com/projects/thundergbm/en/docs-25.11/>`__
+      * `ThunderGBM <https://rocm.docs.amd.com/projects/thundergbm/en/docs-26.01/>`__
 
    .. grid-item-card:: Tutorial
 
