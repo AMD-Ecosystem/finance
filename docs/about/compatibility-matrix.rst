@@ -34,7 +34,7 @@ AMD Finance libraries.
      - Ubuntu 24.04
      - 3.12
 
-   * - `25.11 <https://rocm.docs.amd.com/projects/rocm-finance/en/docs-25.11/>`__
+   * - `25.11 <https://rocm.docs.amd.com/projects/finance/en/docs-25.11/>`__
      -
        * LightGBM 4.6.0.99
        * ThunderGBM 0.3.16
