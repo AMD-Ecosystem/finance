@@ -22,12 +22,12 @@ subtrees:
         title: XGBoost
       - url: https://rocm.docs.amd.com/projects/lightgbm/en/docs-25.11
         title: LightGBM
-      - url: https://rocm.docs.amd.com/projects/thundergbm/en/docs-25.11
+      - url: https://rocm.docs.amd.com/projects/thundergbm/en/docs-26.01
         title: ThunderGBM
 
   - caption: Tutorial
     entries:
-      - url: https://github.com/AMD-Ecosystem/rocm-finance/tree/release/26.05/examples
+      - url: https://github.com/AMD-Ecosystem/finance/tree/release/26.05/examples
         title: Examples
 
   - caption: About
