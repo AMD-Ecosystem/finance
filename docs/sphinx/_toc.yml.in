@@ -22,7 +22,7 @@ subtrees:
         title: XGBoost
       - url: https://rocm.docs.amd.com/projects/lightgbm/en/docs-25.11
         title: LightGBM
-      - url: https://rocm.docs.amd.com/projects/thundergbm/en/docs-25.11
+      - url: https://rocm.docs.amd.com/projects/thundergbm/en/docs-26.01
         title: ThunderGBM
 
   - caption: Tutorial

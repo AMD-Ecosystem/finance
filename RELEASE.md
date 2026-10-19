@@ -67,7 +67,7 @@ Click {fab}`github` to go to the component's source on GitHub.
                 <td><a href="https://github.com/AMD-Ecosystem/LightGBM/tree/release/4.6.0.99"><i class="fab fa-github fa-lg"></i></a></td>
             </tr>
             <tr>
-                <td><a href="https://rocm.docs.amd.com/projects/thundergbm/en/docs-25.11/">ThunderGBM</a></td>
+                <td><a href="https://rocm.docs.amd.com/projects/thundergbm/en/docs-26.01/">ThunderGBM</a></td>
                 <td>0.3.16</td>
                 <td><a href="https://github.com/AMD-Ecosystem/ThunderGBM/tree/release/0.3.16"><i class="fab fa-github fa-lg"></i></a></td>
             </tr>
